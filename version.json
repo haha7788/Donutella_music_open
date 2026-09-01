@@ -1,8 +1,8 @@
 {
   "app": "donutella",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "releasedAt": "2026-08-29T22:04:59.271445Z",
-  "notes": "Шторка: лайк и закрыть. Автообновления.",
+  "notes": "Update.",
   "minSupported": "0.4.0",
   "assets": {
     "android-arm64": {
