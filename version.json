@@ -1,15 +1,15 @@
 {
   "app": "donutella",
-  "version": "0.5.1",
-  "releasedAt": "2026-08-29T22:04:59.271445Z",
-  "notes": "Update.",
-  "minSupported": "0.4.0",
+  "version": "0.6.0",
+  "releasedAt": "2026-09-22T12:16:55.523703Z",
+  "notes": "Десктоп-революция: жидкое стекло на обеих темах (светлая больше не грязнет о тёмный vibrancy), морф-сворачивание сайдбара, фейд страниц без мельканий, локализация RU/EN, круглая иконка. Источники: усиленный гибридный фолбэк полной версии.",
+  "minSupported": "0.5.0",
   "assets": {
     "android-arm64": {
       "file": "app-arm64-v8a-release.apk",
-      "sha256": "9b822d95db18c2ebdeb6acec5082a422f7d069029ade22dde9e4571ea2d97ae8",
-      "size": 28079292,
-      "url": "https://github.com/haha7788/Donutella_music_open/releases/download/v0.5.0/app-arm64-v8a-release.apk"
+      "sha256": "3e660c42955f6f99b50682f122e6b379eb9ffef3deceecacdb29cbf8f4f59c01",
+      "size": 28462237,
+      "url": "https://github.com/haha7788/Donutella_music_open/releases/download/v0.6.0/app-arm64-v8a-release.apk"
     }
   }
 }
